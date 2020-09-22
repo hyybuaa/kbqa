@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=3,4 python SIM_main.py --data_dir input/data/sim_data --vob_file input/config/bert-base-chinese-vocab.txt --model_config input/config/bert-base-chinese-config.json --pre_train_model input/config/bert-base-chinese-model.bin --output_dir output --do_train
