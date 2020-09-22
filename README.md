@@ -99,5 +99,11 @@ answer：物理学家_（探索、研究物理学的科学家）；发明家；�
 
 表述不同的保留结果
 
-**ccks原始数据**
+**ccks原始数据**  
 链接: https://pan.baidu.com/s/1E4I9h8Hi0cloSGePCBDsOw 提取码: vxry
+**图谱构建和实体词典数据**  
+链接: https://pan.baidu.com/s/1Bkvzg-fWVBeMVVBmxASwcA 提取码: q4pr
+**训练ner模型、实体链接、路径排序数据**  
+链接: https://pan.baidu.com/s/1X4kk3wrVgoynlnqdpmVr7Q 提取码: 7adz
+**已训练的模型（ner、实体链接、路径排序、结果归一化共6个模型）**  
+链接: https://pan.baidu.com/s/1UIuZkkA9YC7-6NhyofUELw 提取码: 4av3 复制这段内容后打开百度网盘手机App，操作更方便哦
