@@ -1,6 +1,6 @@
 #  通用的KBQA问答系统
 
-主要的思路参考ccks第一名解决方案，见pdf eval_paper_6_1.pdf  
+主要的思路参考ccks2019第一名解决方案，见eval_paper_6_1.pdf  
 
 **查询效果**
 
